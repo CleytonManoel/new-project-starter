@@ -1,4 +1,4 @@
-# Name
+# New Project Starter
 
 ## Header
 
