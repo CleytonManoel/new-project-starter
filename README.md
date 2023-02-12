@@ -1,6 +1,6 @@
 # New Project Starter
 
-## Summary
+## Header
 
 - Project
 - Git clone
@@ -10,7 +10,7 @@
 
 ## Project
 
-The project was created to accelerate the speed of production of projects using pre-defined configurations.
+The project was created to accelerate the speed of projects  production using pre-defined configurations.
 
 Using python the project manages to run on multiple OS without any changes besides being light and fast.
 
@@ -22,7 +22,7 @@ git clone https://github.com/CleytonManoel/new-project-starter.git
 
 ## Shortcut
 
-To increase the speed with which you create new projects you can add an alias in your terminal settings.
+To increase the speed which you create new projects, you can add an alias in your terminal settings.
 
 In ".bashrc" or in ".bash_aliases" add the line:
 
@@ -37,7 +37,7 @@ Replacing with relative path.
 
 ### To add a new template:
 
-Create a file inside the folder"Setups"with the name of the new template.
+Create a file inside the folder "Setups" with the name of the new template.
 
 Inside the created file import the native python library "os" and create a function with the name of your preference.
 
