@@ -27,7 +27,7 @@ To increase the speed which you create new projects, you can add an alias in you
 In ".bashrc" or in ".bash_aliases" add the line:
 
 ```sh
-alias newproject="cd ..;cd "relative path";bash start.sh"
+alias newproject="cd /;cd "relative path";bash start.sh"
 ```
 
 Replacing with relative path.
