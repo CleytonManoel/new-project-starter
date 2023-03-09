@@ -1,6 +1,6 @@
 # New Project Starter
 
-## Header
+## Summary
 
 - Project
 - Git clone
